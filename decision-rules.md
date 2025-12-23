@@ -1,0 +1,4 @@
+- If message received outside working hours → Inform timings
+- If service area is not supported → Suggest alternative
+- If required information is missing → Ask clarifying question
+- If all conditions are satisfied → Proceed with service
