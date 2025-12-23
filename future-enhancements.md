@@ -1,0 +1,4 @@
+- Connect with WhatsApp Business API
+- Add CRM integration
+- Introduce AI memory for repeat customers
+- Add analytics dashboard
